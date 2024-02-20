@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.item-container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.item-description {
+  color: #f8fafc;
+  font-family: 'roboto';
+  margin-top: 5px;
+  width: 600px;
+  text-align: center;
+}
+.item-h2 {
+  color: #f1f5f9;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-top: 20px;
+}
+.image1 {
+  width: 350px;
+  height: 260px;
+}
